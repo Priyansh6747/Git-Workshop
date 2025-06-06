@@ -1,5 +1,9 @@
 test
 
 
+<<<<<<< HEAD
+devil's kitchen
+=======
 
 bye
+>>>>>>> 3d859641a7f9a3d2b0bf78c81de697242583da42
